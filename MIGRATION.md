@@ -47,3 +47,9 @@ As plataformas sociais podem manter caches próprios da prévia de compartilhame
 - Headers servem Markdown como UTF-8 e evitam indexação de cópias e arquivos operacionais.
 
 ![Configuração válida dos domínios oficiais](docs/domain-validation-1791293560873.jpg)
+
+## Validação do preview refinado
+
+Preview READY: https://circuitopoty-rf29re3e2-charliebrowniecontato-7772.vercel.app/.
+
+Metadados OG/Twitter, canonical, três entidades JSON-LD, leitura das abas por teclado, imagem da formação, popup e fechamento foram conferidos no navegador remoto. Não foram identificados erros de JavaScript do site. O HTML visível continua idêntico ao conteúdo aprovado.
