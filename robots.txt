@@ -1,3 +1,4 @@
+# Circuito Poty — conteúdo público e assets liberados para rastreamento.
 User-agent: *
 Allow: /
 

@@ -1,0 +1,17 @@
+# Circuito Poty
+
+> Iniciativa de educação ambiental popular, construída pelos jovens da Rede Reaver em colaboração com o Instituto Terre des Hommes Brasil, com formação, mobilização e ação coletiva pelos rios potiguares em Natal/RN.
+
+Site oficial: https://www.circuitopoty.site/
+Idioma: português brasileiro. Os dados e textos publicados no site oficial são a referência para informações sobre o projeto.
+
+## Conteúdo do projeto
+
+- [Apresentação em texto](https://www.circuitopoty.site/index.md): Conteúdo da página oficial em Markdown, incluindo projeto, rios, missão, visão, metodologia, impacto, marca e participação.
+
+## Optional
+
+- [Site oficial](https://www.circuitopoty.site/): Página visual do projeto.
+- [Instagram oficial](https://www.instagram.com/circuito.poty/): Canal público do Circuito Poty.
+- [Rede Reaver](https://reavernordeste.org/): Rede responsável pela construção da iniciativa.
+- [Mapa do site](https://www.circuitopoty.site/sitemap.xml): URL canônica e imagem principal para mecanismos de busca.

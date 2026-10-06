@@ -33,3 +33,17 @@ A OG Image mantém a mesma imagem e passa a usar `https://www.circuitopoty.site/
 - Atualização na branch `migration-preview` gerou automaticamente um deploy READY, confirmando a integração Git.
 
 As plataformas sociais podem manter caches próprios da prévia de compartilhamento. A migração valida o arquivo de imagem e as metatags, sem afirmar atualização imediata desses caches.
+
+## Refinamento posterior autorizado pelo proprietário
+
+- `robots.txt` mantém conteúdo e assets públicos liberados.
+- `sitemap.xml` usa a URL canônica, data real da atualização e as dez imagens de conteúdo.
+- `llms.txt` oferece contexto conciso e aponta para a versão Markdown da apresentação em `index.md`.
+- JSON-LD Organization, WebSite e WebPage com dados presentes no site; Twitter image alt e diretrizes de prévia adicionados.
+- HTML visível e CSS original preservados; comparações em 1440, 390 e 360 pixels mantiveram aparência equivalente.
+- Popup com descrição acessível, foco contido, retorno ao card e conteúdo de fundo inerte; abas operáveis por teclado.
+- Carrossel respeita movimento reduzido, pausa no popup e suspende o temporizador quando a página está oculta. Os tempos normais de animação foram preservados.
+- Testes específicos passaram com e sem movimento reduzido; o carrossel não avança atrás do popup.
+- Headers servem Markdown como UTF-8 e evitam indexação de cópias e arquivos operacionais.
+
+![Configuração válida dos domínios oficiais](docs/domain-validation-1791293560873.jpg)

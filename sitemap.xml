@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.circuitopoty.site/</loc>
-    <lastmod>2026-09-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/lancamento-circuito-poty.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/presenca-institucional.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/sistema-institucional.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/experiencia-digital.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/presenca-no-territorio.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/formacao.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/ecobag.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/presenca-digital.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/impacto-real.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.circuitopoty.site/assets/images/vestuario.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
