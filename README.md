@@ -14,8 +14,10 @@ Abra http://localhost:8080/.
 
 ## Publicação
 
-Projeto Vercel existente: `circuito-poty`. Repositório: `charliebrowniecontato-ship-it/Circuito-Poty`. Branch de produção desejada: `main`.
+Projeto Vercel criado pelo proprietário durante a migração: `circuitopoty` (https://circuitopoty.vercel.app/). Repositório: `charliebrowniecontato-ship-it/Circuito-Poty`. Branch de produção: `main`.
 
 Na Vercel, use Framework Preset **Other**, diretório raiz do repositório e sem comandos de build/instalação. Preserve os domínios `www.circuitopoty.site` e `circuitopoty.site`.
 
-A conexão Git e o preview remoto dependem de acesso ao projeto Vercel existente. Não criar, excluir ou renomear projetos durante esta migração.
+O projeto `circuitopoty` está conectado ao GitHub. Pushes em `main` publicam em produção; branches de trabalho geram previews. A branch `migration-preview` permite validar a migração antes da vinculação dos domínios oficiais.
+
+O projeto anterior `circuito-poty` não foi excluído, recriado nem renomeado. O proprietário optou por criar `circuitopoty` na conta `charliebrowniecontato-7772` durante a execução. Os domínios oficiais devem ser vinculados após a validação do preview.
