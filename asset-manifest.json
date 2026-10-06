@@ -1,0 +1,110 @@
+[
+  {
+    "source": "https://i.imgur.com/PuY9rmK.png",
+    "path": "assets/logos/circuito-poty-oficial.png",
+    "sha256": "e163403033b46f5082942fac3ff0141278988e3c6867c4070bc7c777bc819678",
+    "bytes": 460655,
+    "width": 1122,
+    "height": 1135,
+    "content_type": "image/png"
+  },
+  {
+    "source": "https://i.imgur.com/mNKcJCz.png",
+    "path": "assets/logos/circuito-poty-rodape.png",
+    "sha256": "995001a0a09957f3fb9376a48f179646886fab331b0848e0110204652d3261b4",
+    "bytes": 111601,
+    "width": 1122,
+    "height": 1135,
+    "content_type": "image/png"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/10_xtNUFxIpkVExc_3L3OK8PwEt8qtMrq=w2400",
+    "path": "assets/images/lancamento-circuito-poty.png",
+    "sha256": "1b1c5d48ebeb523e5ec7f05ee810f25811edd31f461afe252abad1219029c968",
+    "bytes": 2252925,
+    "width": 1536,
+    "height": 1024,
+    "content_type": "image/png"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/14mDLsYhVM1PXumAOzLbEFeyOnPKkPegq=w2200",
+    "path": "assets/images/presenca-institucional.jpg",
+    "sha256": "08b895bb2945cf746ef614e2cdb629fe3536524d96954f964cd9864eb5260194",
+    "bytes": 735487,
+    "width": 1406,
+    "height": 793,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/17uJdmhRyGMrRpGdqBqqpcWR4BfFPH_TH=w2200",
+    "path": "assets/images/sistema-institucional.jpg",
+    "sha256": "a9a41456bd0add0fbd079424fb25c2da372573bdc355895f42e596858dda79b8",
+    "bytes": 937021,
+    "width": 1448,
+    "height": 817,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1NX4RHdCdDJKw7TjEwT8EzgvON_vNveEO=w2200",
+    "path": "assets/images/experiencia-digital.png",
+    "sha256": "f8b1fae8060bc472c17b3f362bf2f7f76a1a2ca6c38339081ebeb657bcd49e5f",
+    "bytes": 95936,
+    "width": 1080,
+    "height": 1350,
+    "content_type": "image/png"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1S7ioUlzekzOlrU8aCMi0NaKC7r9N9Uzb=w2200",
+    "path": "assets/images/presenca-no-territorio.jpg",
+    "sha256": "e7d948c8b7739acaf792501b831962e363ce42714cdb33b8844cd486759aad96",
+    "bytes": 925612,
+    "width": 1536,
+    "height": 867,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1VvvK1LBF2spROksyVZla-3mgOHhnHo9Q=w2200",
+    "path": "assets/images/formacao.jpg",
+    "sha256": "0898b832affcadf2e393294380c78c2669f1f748a4a638afada1184019a40feb",
+    "bytes": 131220,
+    "width": 1170,
+    "height": 858,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1dCoHgcUtWhioAASI_5AE_AqRGNQPNR9o=w2200",
+    "path": "assets/images/ecobag.jpg",
+    "sha256": "f1203a595fecb83abe1f764f198bbac22700aedb9057f11fcb24cbc91757bb91",
+    "bytes": 728557,
+    "width": 1536,
+    "height": 868,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1kxrhvqy7pEkrC732jd2dUiW_ek7GsLrh=w2200",
+    "path": "assets/images/presenca-digital.jpg",
+    "sha256": "c372a22d8a375454c40f281cff82590c0d9aaa01c6d53a4774a8e738f195c7eb",
+    "bytes": 745953,
+    "width": 1505,
+    "height": 849,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1xvrHZS1umRLj-pL0WHWbztBw866DGeUS=w2200",
+    "path": "assets/images/impacto-real.jpg",
+    "sha256": "342817cec1b0c24baa962c0a8397ce4b8198b8194b1573345dac20d41d4fb4c4",
+    "bytes": 205126,
+    "width": 1170,
+    "height": 759,
+    "content_type": "image/jpeg"
+  },
+  {
+    "source": "https://lh3.googleusercontent.com/d/1zVXw_iuhfcEpRpWZRU_bNUg1vnIGOVRD=w2200",
+    "path": "assets/images/vestuario.jpg",
+    "sha256": "f52354ad5f9d169a90e26a36e7c4a5520556069812fb4e002e24ccd54a2e2d53",
+    "bytes": 834884,
+    "width": 1476,
+    "height": 832,
+    "content_type": "image/jpeg"
+  }
+]
